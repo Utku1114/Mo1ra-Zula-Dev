@@ -1,0 +1,12 @@
+﻿  meme.cpp
+C:\Users\Mugo\source\repos\moi_zuladev\moi_zuladev\NtDefines.h(23,31): warning C4200: nonstandard extension used: zero-sized array in struct/union
+C:\Users\Mugo\source\repos\moi_zuladev\moi_zuladev\NtDefines.h(23,31): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+C:\Users\Mugo\source\repos\moi_zuladev\moi_zuladev\LockedMemory.h(7,49): warning C4330: attribute 'write' for section '.LTEXT' ignored
+C:\Users\Mugo\source\repos\moi_zuladev\moi_zuladev\MemoryController.h(433,1): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\Mugo\source\repos\moi_zuladev\moi_zuladev\meme.cpp(1720,12): error C3861: 'EspLookDirection': identifier not found
+C:\Users\Mugo\source\repos\moi_zuladev\moi_zuladev\meme.cpp(1778,12): error C3861: 'EspLookDirection': identifier not found
+C:\Users\Mugo\source\repos\moi_zuladev\moi_zuladev\meme.cpp(1837,11): error C3861: 'EspLookDirection': identifier not found
+C:\Users\Mugo\source\repos\moi_zuladev\moi_zuladev\meme.cpp(1860,11): error C3861: 'EspLookDirection': identifier not found
+C:\Users\Mugo\source\repos\moi_zuladev\moi_zuladev\meme.cpp(1881,11): error C3861: 'EspLookDirection': identifier not found
+C:\Users\Mugo\source\repos\moi_zuladev\moi_zuladev\meme.cpp(2210,43): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'LONG'
+C:\Users\Mugo\source\repos\moi_zuladev\moi_zuladev\meme.cpp(2210,43): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'LONG'
